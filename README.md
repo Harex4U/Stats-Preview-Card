@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Frontend Mentor - Stats preview card component
 
 ![Design preview for the Stats preview card component coding challenge](./design/desktop-preview.jpg)
@@ -89,3 +90,6 @@ We love receiving feedback! We're always looking to improve our challenges and o
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
 **Have fun building!** 🚀
+=======
+# Stats-Preview-Card
+>>>>>>> d18c8cdd04783b3ea045b40f31536768ba7a1a60
